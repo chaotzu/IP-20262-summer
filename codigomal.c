@@ -1,3 +1,4 @@
+//Ya encontre la solución, solo decrementen N cada vez que se recorre el arreglo
 #include <stdio.h>
 
 int main()
